@@ -1,0 +1,17 @@
+.DS_Store
+source
+node_modules
+bower_components
+/build
+*.zip
+.cache
+dist/
+pack/
+.babelrc-2
+load-page.js
+src/gwx.js
+compiler/test
+test/app.js
+.idea/*
+test.js
+tmp/
