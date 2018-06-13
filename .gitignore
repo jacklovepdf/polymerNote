@@ -1,6 +1,6 @@
 .DS_Store
 source
-node_modules
+node_modules/*
 bower_components
 /build
 *.zip
